@@ -1,0 +1,2 @@
+# partner
+springcloud-config
